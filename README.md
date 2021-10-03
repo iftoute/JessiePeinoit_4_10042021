@@ -14,16 +14,16 @@ Code source du site initial avant améliorations <a href="https://s3-eu-west-1.a
 ## Scores lighthouse avant modifications
 
 ### Version mobile
-Performance: 75
-Accessibilité: 84
-Meilleures pratiques: 86
-SEO: 78
+* Performance: 75
+* Accessibilité: 84
+* Meilleures pratiques: 86
+* SEO: 78
 
 ### Version desktop
-Performance: 82
-Accessibilité: 81
-Meilleures pratiques: 93
-SEO: 90
+* Performance: 82
+* Accessibilité: 81
+* Meilleures pratiques: 93
+* SEO: 90
 
 ### Poids du site :
 ### Vitessse du site :
@@ -31,16 +31,16 @@ SEO: 90
 ## Scores lighthouse après modifications
 
 ### Version mobile
-Performance: 
-Accessibilité: 
-Meilleures pratiques: 
-SEO: 
+* Performance: 
+* Accessibilité: 
+* Meilleures pratiques: 
+* SEO: 
 
 ### Version desktop
-Performance: 
-Accessibilité: 
-Meilleures pratiques: 
-SEO: 
+* Performance: 
+* Accessibilité: 
+* Meilleures pratiques: 
+* SEO: 
 
 ### Poids du site :
 ### Vitessse du site :
@@ -57,8 +57,8 @@ SEO:
 * Remplacer les textes sous forme d'image par un vrai paragraphe HTML
 
 ### Meilleures pratique
-Remplacer le lien de navigation "page 2" par un libelé plus parlant (contact) et renommer le fichier par la même occasion
-SEO
-Aucune meta description
-Contient des polices illisibles par leur taille
-Balise <title> incomplète c'est juste un "."
+* Remplacer le lien de navigation "page 2" par un libelé plus parlant (contact) et renommer le fichier par la même occasion
+* SEO
+* Aucune meta description
+* Contient des polices illisibles par leur taille
+* Balise <title> incomplète c'est juste un "."
